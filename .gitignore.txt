@@ -1,9 +1,0 @@
-# Ignorer l'environnement virtuel
-env/
-.venv/
-
-# Ignorer les fichiers lourds
-*.dll
-*.lib
-*.pkl
-*.bin

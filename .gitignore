@@ -1,0 +1,10 @@
+# Ignorer l'environnement virtuel
+env/
+.venv/
+__pycache__/
+
+# Ignorer les fichiers lourds
+*.dll
+*.lib
+*.pkl
+*.bin
